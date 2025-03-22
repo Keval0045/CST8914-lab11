@@ -1,3 +1,4 @@
+
 //pseudocode
 /*
   1.Grab the accordion buttons from the DOM
